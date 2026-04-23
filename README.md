@@ -103,7 +103,7 @@ You can watch the demo video of this project here:
 Add your demo video link below:
 
 ```
-Paste Demo Video Link Here
+https://www.linkedin.com/posts/deepika-gautam-a0ab92327_hexsoftwares-python-opencv-ugcPost-7453051879875481600-VGQx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKUICoBWQ1y1WUWHG2wbmv8s60TktI6LV0
 ```
 
 ---
